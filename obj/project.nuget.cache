@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8/RV5n7DOb//bmBUMnMpcz+TtWdvkEYBBcPJbIrTInydt5YTmrjzZkBlQ3NNAY7Qnin3JDrWdmvk4nrirsHs5g==",
+  "dgSpecHash": "1frJX3rQVHX5wdU1koOuQlczIFEuHcBtRgSaYlgnI5BKCX6B3Q/Ra16ZPBwKLKxSoL0Wrm2anXbOuD9+mNpATA==",
   "success": true,
-  "projectFilePath": "/myWebApp/myWebApp.csproj",
+  "projectFilePath": "H:\\PEymery\\myWebApp - Dockerfile\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
