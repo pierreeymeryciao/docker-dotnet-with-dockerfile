@@ -20,5 +20,5 @@ steps:
 - task: ContainerBuild@0
   inputs:
     dockerRegistryServiceConnection: 'docker hub pierreeymeryciao'
-    repository: 'docker-dotnet-with-dockerfile'
+    repository: 'pierreeymeryciao/docker-dotnet-with-dockerfile'
     Dockerfile: 'Dockerfile'
